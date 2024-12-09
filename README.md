@@ -48,7 +48,3 @@ This dashboard uses sample data from a fictional SuperStore dataset. Ensure that
 
 
 ---
-
-## Contributing
-
-Contributions are welcome! Please fork the repository and submit a pull request with your improvements or suggestions.
